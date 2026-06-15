@@ -1,0 +1,23 @@
+WIFI SECURITY AUDIT REPORT
+=================================================================
+Generated: 2026-06-09 18:43:47.291153
+
+SSID: Homewifi
+Password Length: 11
+Security Score: 10/100
+Grade: D
+Risk Level: HIGH
+Entropy: 56.87 bits
+Attack Resistance: LOW
+Wi-Fi Recommendation: Upgrade Security Settings
+
+Recommendations:
+- Use at least 12 characters
+- Add uppercase letters
+- Add special characters
+
+Best Practices:
+- Enable WPA3
+- Disable WPS
+- Use Guest Network
+- Avoid Password Reuse
